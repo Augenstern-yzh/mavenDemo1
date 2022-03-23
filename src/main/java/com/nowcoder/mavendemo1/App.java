@@ -2,7 +2,7 @@ package com.nowcoder.mavendemo1;
 
 /**
  * Hello world!
- *
+ *hello world
  */
 public class App 
 {
